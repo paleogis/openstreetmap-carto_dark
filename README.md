@@ -1,4 +1,4 @@
-# OpenStreetMap Carto
+# OpenStreetMap Carto Dark
 
 ![screenshot](https://raw.github.com/gravitystorm/openstreetmap-carto/master/preview.png)
 
